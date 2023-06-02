@@ -1,0 +1,19 @@
+1. Install Python: Make sure you have Python installed on your machine. You can download the latest version of Python from the official Python website (https://www.python.org/downloads/) and follow the installation instructions for your operating system.
+
+
+2. Download the Code: Download the code file containing the simulation code to your local machine. You can either copy the code from its source or download it as a file.
+
+3. Open a command prompt or terminal and navigate to the folder where the code was downloaded
+  ```
+ cd path/to/file
+  ```
+  
+4.   Install Required Libraries: run the following command to install the required libraries:
+   ```
+  pip install -r requirements.txt
+   ```
+
+5. Run the Application: Run the following command to start the Streamlit application:
+   ```
+   streamlit run model_v3.py
+   ```
